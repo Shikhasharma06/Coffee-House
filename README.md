@@ -13,3 +13,4 @@ Below header, is the part of main content.
 On hovering images, transforming with scale value is given for hover view.
 It also wrapped in a div container for giving display flex with direction column as it consist of p tag with specific names in it.
 This part consists of styling for paragraphs in paragraph sections and list-items. It also consist of box-shadow property in parent element.
+https://shikhasharma06.github.io/Coffee-House/index.html
